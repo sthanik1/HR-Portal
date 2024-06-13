@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.row1, .Column1, .Column2, .Column3 {
+        float: left;
+        height: 470px;
+        width: 23%;
+        padding: 0 10px;
+      }
+      
+.db {
+  width: 10%;
+  position: absolute;
+  right: 30%;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+img{
+	max-width:100%;
+	max-height:100%;
+}
+
+ .title{
+   background-color: #358597;
+ }
+
+.title-image{
+	width: 20%;
+	height: 10%;
+}
+
+.icon:hover{
+	color: #e11d74;
+}
